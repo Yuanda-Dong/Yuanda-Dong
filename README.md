@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Yuanda
 
-- 🖥️ I have been coding for 6 years.
+- 🖥️ I have been coding for over 6 years.
 - 🌱 I love working with memory-safe programming languages, and I think programming languages / application frameworks are just abstractions that we use to best deliver user needs.
 - 📫 How to reach me:
   | WeChat: [dongyuanda]() | Email: dongyuanda@gmail.com |
